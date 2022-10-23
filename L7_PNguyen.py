@@ -1,5 +1,5 @@
 #Authors: Peter Nguyen
-#Assignment: Lab #6
+#Assignment: Lab #7
 #Completed (or last revision): 10/25/2022
 from random import *
 #Task 1
